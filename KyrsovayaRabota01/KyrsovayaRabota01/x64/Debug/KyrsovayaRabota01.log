@@ -1,0 +1,18 @@
+﻿  KyrsovayaRabota01.cpp
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(100,29): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(102,25): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(118,20): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(120,22): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(123,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(135,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(190,28): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(192,25): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(237,29): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(239,25): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(260,32): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(262,28): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(266,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(266,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(399,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programms\VS Source\source\repos\KyrsovayaRabota01\KyrsovayaRabota01\KyrsovayaRabota01.cpp(616,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KyrsovayaRabota01.vcxproj -> D:\Programms\VS Source\source\repos\KyrsovayaRabota01\x64\Debug\KyrsovayaRabota01.exe
